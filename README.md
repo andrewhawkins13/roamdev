@@ -33,7 +33,7 @@ In [Hetzner Cloud Console](https://console.hetzner.cloud):
 2. Add your SSH key (from `~/.ssh/id_rsa.pub` on your computer)
 3. Create a server:
    - **Image:** Ubuntu 24.04
-   - **Type:** CPX11 (~$5/mo) or CX22 (~$4/mo)
+   - **Type:** CPX11 (~$5/mo)
    - **Location:** Nearest to you
    - **SSH Key:** Select yours
 
